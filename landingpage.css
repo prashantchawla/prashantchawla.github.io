@@ -1,0 +1,26 @@
+html, body {
+  width: 250px;
+  margin: 0;
+  text-align: center;
+}
+
+a {
+  display: inline;
+}
+
+.main {
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.main {
+  margin: 0.2em;
+  padding: 0.2em;
+  background-color: #E5F2F2;
+}
+
+.main:hover {
+  background-color: #CFF2F2;
+}
